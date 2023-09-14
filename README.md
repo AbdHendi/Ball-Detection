@@ -1,4 +1,4 @@
-# Read-time Ball Motion Detection
+# Real-time Ball Motion Detection
 
 This project detects and tracks the motion of a ball in a video and calculates how many times the ball hits the ground.
 
