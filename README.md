@@ -26,3 +26,4 @@ The algorithm:
 * Keeps a persistent track of the ball's motion, thus enabling the prediction of its future movement.
 * Efficiently calculates the number of times the ball hits the ground, providing insights into its motion dynamic
 
+[ice_video_20230914-155352.webm](https://github.com/AbdHendi/Ball-Detection/assets/87819598/fcdffd57-ad18-4457-8f59-38645e902e61)
